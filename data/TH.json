@@ -1,0 +1,32 @@
+{
+  "cluster": "SMS",
+  "storeDomains": {
+    "prod": "https://shop.samsung.com",
+    "stg2": "https://stg2.shop.samsung.com"
+  },
+  "storeNewHybDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-sms-api-cdn.ecom-stg.samsung.com"
+  },
+  "exchangeEndpoints": {
+    "prod": "https://p1.ecom.samsung.com/v1/exchange/api/php",
+    "stg2": "https://icd1.ecom-qa.samsung.com/v1/exchange/api/php"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "phoneNumber": "812345678",
+    "fullName": "Auto Test"
+  },
+  "customerAddress": {
+    "line1": "123",
+    "postalCode": "10400",
+    "regionIso": "กรุงเทพมหานคร",
+    "district": "ดินแดง",
+    "town": "ดินแดง",
+    "phoneNumber2": ""
+  },
+  "billingAddress": {},
+  "tradeIn": {
+    "deviceConditions": "first-then-last"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "cluster": "SMS",
+  "storeDomains": {
+    "prod": "https://shop.samsung.com",
+    "stg2": "https://stg2.shop.samsung.com"
+  },
+  "storeNewHybDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-sms-api-cdn.ecom-stg.samsung.com"
+  },
+  "customerInfo": {
+    "email": "autotest@wisewires.com",
+    "fullName": "Auto Test",
+    "phoneNumber": "0912345678",
+    "phoneNumber2": ""
+  },
+  "customerAddress": {
+    "line1": "13",
+    "line2": "A1",
+    "regionIso": "Thành phố Hà Nội",
+    "district": "Quận Thanh Xuân",
+    "ward": "Phường Nhân Chính",
+    "village": "",
+    "deliveryInfo": ""
+  },
+  "billingAddress": {
+    "line1": "13",
+    "line2": "A1",
+    "phoneNumber": "0912345678",
+    "regionIso": "Thành phố Hà Nội",
+    "ward": "Phường Long Biên"
+  },
+  "tradeIn": {
+    "imei": "355884760811842",
+    "deviceConditions": "first-then-skip"
+  }
+}

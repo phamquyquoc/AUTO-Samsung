@@ -1,0 +1,51 @@
+{
+  "cluster": "SMI",
+  "storeDomains": {
+    "prod": "https://shop.samsung.com",
+    "stg2": "https://stg2.shop.samsung.com"
+  },
+  "storeNewHybDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smi-api-cdn.ecom-stg.samsung.com"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "title": "Mr.",
+    "firstName": "Auto",
+    "lastName": "Test",
+    "tvLicenseType": "ACCOUNT NUMBER",
+    "tvLicenseNumber": "123965972"
+  },
+  "customerAddress": {
+    "searchAddress": "Gauteng",
+    "line1": "Gauteng Rd",
+    "line2": "Langaville",
+    "district": "City of Ekurhuleni Metropolitan Municipality",
+    "town": "Brakpan",
+    "postalCode": "1550",
+    "regionIso": "Gauteng",
+    "phone": "0123456789"
+  },
+  "billingAddress": {
+    "searchAddress": "Gauteng",
+    "line1": "Knysna",
+    "line2": "Apartment",
+    "district": "City of Ekurhuleni Metropolitan Municipality",
+    "town": "Baviaans",
+    "postalCode": "1770",
+    "regionIso": "Gauteng",
+    "phoneNumber": "0123456699"
+  },
+  "creditCardData": {
+    "cardNumber": "4000000000000002",
+    "holderName": "Auto Test",
+    "expiryMonth": "12",
+    "expiryYear": "2030",
+    "expiryDate": "12/30",
+    "cvv": "737"
+  },
+  "scpInfo": {
+    "idType": "I have a Foreign Passport",
+    "foreignPassport": "474392779"
+  }
+}

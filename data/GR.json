@@ -1,0 +1,36 @@
+{
+  "cluster": "SMN3",
+  "storeDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smn3-api-cdn.ecom-stg.samsung.com"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "firstName": "Auto",
+    "lastName": "Test",
+    "phoneCode": null,
+    "phoneNumber": "6123456731"
+  },
+  "customerAddress": {
+    "line1": "123",
+    "line2": "45",
+    "postalCode": "30100",
+    "district": "ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ",
+    "town": "ΑΓΡΙΝΙΟ",
+    "country": null,
+    "nameOnRinger": "test",
+    "floor": "4"
+  },
+  "billingAddress": {
+    "country": "Greece",
+    "phoneCode": null,
+    "phoneNumber": "6129345695",
+    "line1": "Καστελιου",
+    "line2": "8",
+    "firstName": "Christos",
+    "lastName": "Tzolis",
+    "postalCode": "14342",
+    "district": "ΑΤΤΙΚΗΣ",
+    "town": "ΝΕΑ ΦΙΛΑΔΕΛΦΕΙΑ"
+  }
+}

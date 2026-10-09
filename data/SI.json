@@ -1,0 +1,22 @@
+{
+  "cluster": "SMN3",
+  "storeDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smn3-api-cdn.ecom-stg.samsung.com"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "firstName": "Auto",
+    "lastName": "Test",
+    "phoneNumber": "921234567"
+  },
+  "customerAddress": {
+    "line1": "123",
+    "line2": "line2",
+    "postalCode": "1234",
+    "town": "town",
+    "floor": "",
+    "apartment": ""
+  },
+  "billingAddress": {}
+}

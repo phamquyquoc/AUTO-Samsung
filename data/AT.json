@@ -1,0 +1,47 @@
+{
+  "cluster": "SMN",
+  "storeDomains": {
+    "prod": "https://shop.samsung.com",
+    "stg2": "https://stg2.shop.samsung.com"
+  },
+  "storeNewHybDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smn-api-cdn.ecom-stg.samsung.com"
+  },
+  "tariffEndpoints": {
+    "prod": "https://p1.ecom.samsung.com/v4/carrier/api/aut/at",
+    "stg2": "https://ewd1.ecom-qa.samsung.com/v4/carrier/api/aut/at"
+  },
+  "customerInfo": {
+    "title": 1,
+    "firstName": "Auto",
+    "lastName": "Test",
+    "phoneCode": "Österreich",
+    "phoneNumber": "1323132123",
+    "email": "autotest@gmail.com"
+  },
+  "customerAddress": {
+    "line1": "Glocknerstrasse",
+    "line2": "57",
+    "town": "Hippach-schwendberg",
+    "postalCode": "6283"
+  },
+  "billingAddress": {
+    "title": "Herr",
+    "email": "autotestww@gmail.com",
+    "firstName": "Auto",
+    "lastName": "test",
+    "phoneCode": "Österreich",
+    "phoneNumber": "1323132123",
+    "line1": "Innsbruck",
+    "line2": "123",
+    "town": "Innsbruck",
+    "townCity": "Innsbruck",
+    "postalCode": "5082",
+    "country": "Deutschland",
+    "vatNumber": "ATU53995100"
+  },
+  "tradeInData": {
+    "iban": "AT405400094525668944"
+  }
+}

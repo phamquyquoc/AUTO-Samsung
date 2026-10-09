@@ -1,0 +1,25 @@
+{
+  "cluster": "SMI",
+  "storeDomains": {
+    "prod": "https://shop.samsung.com",
+    "stg2": "https://stg2.shop.samsung.com"
+  },
+  "storeNewHybDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smi-api-cdn.ecom-stg.samsung.com"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "phoneNumber": "+96554123457",
+    "firstName": "اسم الشخص",
+    "lastName": "اسم العائلة"
+  },
+  "customerAddress": {
+    "town": "عبدالله مبارك الصباح",
+    "postalCode": "عبدالله مبارك الصباح",
+    "line1": "12",
+    "line2": "Klein Bennebek",
+    "apartment": ""
+  },
+  "billingAddress": {}
+}

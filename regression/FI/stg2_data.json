@@ -1,0 +1,16 @@
+{
+    "customerAddress": {
+        "line1": "123",
+        "regionIso": "KUALA LUMPUR",
+        "town": "Kuala Lumpur",
+        "postalCode": "50000"
+    },
+    "billingAddress": {
+        "tinICPassport": "1234567"
+    },
+    "tradeIn": {
+        "brand": "Apple",
+        "device": "Apple iPhone XR 64GB",
+        "imei": "353066108570940"
+    }
+}

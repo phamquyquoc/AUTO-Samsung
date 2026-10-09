@@ -1,0 +1,22 @@
+{
+  "cluster": "SMI",
+  "storeDomains": {
+    "prod": "https://p1-smi-api-cdn.shop.samsung.com",
+    "stg2": "https://s2-smi-api-cdn.ecom-stg.samsung.com"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "firstName": "Auto",
+    "lastName": "Test",
+    "phoneNumber": "+9645654131235"
+  },
+  "customerAddress": {
+    "line1": "line1",
+    "apartment": "69",
+    "line2": "line2",
+    "landmark": "1234",
+    "regionIso": "ئەنبار",
+    "district": "تەربیل"
+  },
+  "billingAddress": {}
+}

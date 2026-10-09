@@ -1,0 +1,34 @@
+{
+  "cluster": "SMN3",
+  "storeDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smn3-api-cdn.ecom-stg.samsung.com"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "firstName": "Auto",
+    "lastName": "Test",
+    "companyName": "Wisewires"
+  },
+  "customerAddress": {
+    "line1": "Čs. armády 1042/42",
+    "town": "Břeclav",
+    "postalCode": "69141",
+    "country": null,
+    "prefix": null,
+    "phone": "123456789",
+    "notes": "",
+    "companyName": ""
+  },
+  "billingAddress": {
+    "line1": "Karlovarský kraj",
+    "town": "Karlovarský kraj",
+    "postalCode": "35101",
+    "phoneNumber": "775613590"
+  },
+  "tradeInData": {
+    "iban": "CZ3150519849383617818548",
+    "bankName": "AIR BANK",
+    "swiftCode": "AIRACZPP"
+  }
+}

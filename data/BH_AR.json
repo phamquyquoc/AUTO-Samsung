@@ -1,0 +1,40 @@
+{
+  "cluster": "SMI",
+  "storeDomains": {
+    "prod": "https://shop.samsung.com",
+    "stg2": "https://stg2.shop.samsung.com"
+  },
+  "storeNewHybDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smi-api-cdn.ecom-stg.samsung.com"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "phoneNumber": "+97354123457",
+    "firstName": "سم الشخص",
+    "lastName": "اسم العائلة"
+  },
+  "customerAddress": {
+    "regionIso": "المحافظة الجنوبية",
+    "town": "الرفاع الشرقي",
+    "district": "الرفاع الشرقي",
+    "line1": "صخير",
+    "apartment": "",
+    "landmark": ""
+  },
+  "billingAddress": {
+    "phoneNumber": "+97354123466",
+    "firstName": "Auto",
+    "lastName": "Bill",
+    "regionIso": "المحافظة الشمالية",
+    "district": "أبو بهام",
+    "town": "أبو بهام",
+    "line1": "Billing Town"
+  },
+  "creditCardData": {
+    "cardNumber": "4005550000000001",
+    "holderName": "Auto",
+    "expiryDate": "12/30",
+    "cvv": "100"
+  }
+}

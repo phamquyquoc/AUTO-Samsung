@@ -1,0 +1,39 @@
+{
+  "cluster": "SMN5",
+  "storeDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smn5-api-cdn.ecom-stg.samsung.com"
+  },
+  "exchangeEndpoints": {
+    "prod": "https://p1.ecom.samsung.com/v1/exchange/api/deu",
+    "stg2": "https://ewd1.ecom-qa.samsung.com/v1/exchange/api/deu"
+  },
+  "customerInfo": {
+    "title": 1,
+    "firstName": "Auto",
+    "lastName": "Test",
+    "phoneCode": "+49",
+    "phoneNumber": "6925434126",
+    "email": "autotest@gmail.com"
+  },
+  "customerAddress": {
+    "searchAddress": "Diedersdorfer Weg 12277 Berlin",
+    "line1": "Diedersdorfer Weg",
+    "line2": "1",
+    "postalCode": "12277",
+    "town": "Berlin"
+  },
+  "billingAddress": {},
+  "tradeIn": {
+    "brand": "Samsung",
+    "model": "Galaxy S24 Ultra",
+    "imei": "355338500632695"
+  },
+  "simInfo": {
+    "yearOfBirth": "2005",
+    "nationality": "Deutschland",
+    "iban": "DE89370400440532013000",
+    "bic": "OPSKATWW",
+    "bankName": "BAWAG P.S.K."
+  }
+}

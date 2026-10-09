@@ -1,0 +1,35 @@
+{
+  "cluster": "SMZ",
+  "storeWebDomains": {
+    "prod": "https://www.samsung.com.cn",
+    "stg2": "https://stg2.shop.samsung.com.cn"
+  },
+  "storeDomains": {
+    "prod": "https://www.samsung.com.cn",
+    "stg2": "https://stg2.shop.samsung.com.cn"
+  },
+  "boDomain": "https://backoffice.co226vnpll-pengtaiin1-s2-public.model-t.ccv2prod.sapcloud.cn",
+  "storeNewHybDomains": {
+    "prod": "https://api.shop.samsung.com.cn",
+    "stg2": "https://s2-smz-api-cdn.ecom-stg.samsung.com.cn"
+  },
+  "aemDomains": {
+    "prod": "https://www.samsung.com.cn",
+    "p6-pre-qa": "https://p6-pre-qa3.samsung.com.cn",
+    "p6-pre-qa2": "https://p6-pre-qa2.samsung.com.cn"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "phoneNumber": "15942409368",
+    "firstName": "Auto",
+    "lastName": "Test"
+  },
+  "customerAddress": {
+    "postalCode": "10105",
+    "province": "北京市",
+    "city": "北京市",
+    "district": "朝阳区",
+    "line1": "朝阳区"
+  },
+  "billingAddress": {}
+}

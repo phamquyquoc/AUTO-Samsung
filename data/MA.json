@@ -1,0 +1,34 @@
+{
+  "cluster": "SMI",
+  "storeDomains": {
+    "prod": "https://shop.samsung.com",
+    "stg2": "https://stg2.shop.samsung.com"
+  },
+  "storeNewHybDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smi-api-cdn.ecom-stg.samsung.com"
+  },
+  "exchangeEndpoints": {
+    "prod": "https://p1.ecom.samsung.com/v1/exchange/api/mar",
+    "stg2": "https://ewd1.ecom-qa.samsung.com/v1/exchange/api/mar"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "phoneNumber": "+212321321321",
+    "firstName": "Auto",
+    "lastName": "Test"
+  },
+  "customerAddress": {
+    "line1": "123",
+    "regionIso": "Casablanca-Settat",
+    "town": "Aïn Chock"
+  },
+  "billingAddress": {
+    "firstName": "MA",
+    "lastName": "Bill",
+    "phoneNumber": "+212434343452",
+    "line1": "456",
+    "regionIso": "Casablanca-Settat",
+    "town": "Aïn Chock"
+  }
+}

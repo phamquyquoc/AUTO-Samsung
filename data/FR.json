@@ -1,0 +1,26 @@
+{
+  "cluster": "SMN2",
+  "storeDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smn2-api-cdn.ecom-stg.samsung.com"
+  },
+  "exchangeEndpoints": {
+    "prod": "https://p1.ecom.samsung.com/v1/exchange/api/fra",
+    "stg2": "https://ewd1.ecom-qa.samsung.com/v1/exchange/api/fra"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "title": 1,
+    "firstName": "Auto",
+    "lastName": "Test",
+    "phoneCode": "+33(0)",
+    "phoneNumber": "0612345678"
+  },
+  "customerAddress": {
+    "postalCode": "75001",
+    "town": "PARIS",
+    "line1": "1 PORTE BERGER",
+    "line2": "12"
+  },
+  "billingAddress": {}
+}

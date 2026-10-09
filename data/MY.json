@@ -1,0 +1,39 @@
+{
+  "cluster": "SMS",
+  "storeDomains": {
+    "prod": "https://shop.samsung.com",
+    "stg2": "https://stg2.shop.samsung.com"
+  },
+  "storeNewHybDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-sms-api-cdn.ecom-stg.samsung.com"
+  },
+  "exchangeEndpoints": {
+    "prod": "https://p1.ecom.samsung.com/v1/exchange/api/mys",
+    "stg2": "https://icd1-org.ecom-qa.samsung.com/v1/exchange/api/mys"
+  },
+  "customerInfo": {
+    "email": "autotest@wisewires.com",
+    "phoneNumber": "0912345678",
+    "firstName": "Auto",
+    "lastName": "Test"
+  },
+  "customerAddress": {
+    "line1": "A",
+    "line2": "1",
+    "regionIso": "SARAWAK",
+    "town": "Serian",
+    "postalCode": "94700",
+    "companyName": "Wisewires",
+    "phoneNumber2": "",
+    "deliveryInfo": ""
+  },
+  "billingAddress": {
+    "tinICPassport": "123"
+  },
+  "tradeIn": {
+    "brand": "Samsung",
+    "model": "Galaxy S24 Ultra",
+    "imei": "355338503789559"
+  }
+}

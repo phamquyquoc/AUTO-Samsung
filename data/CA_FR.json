@@ -1,0 +1,34 @@
+{
+  "cluster": "SMC",
+  "storeDomains": {
+    "prod": "https://shop.samsung.com",
+    "stg2": "https://stg2.shop.samsung.com"
+  },
+  "storeNewHybDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smc-api-cdn.ecom-stg.samsung.com"
+  },
+  "exchangeEndpoints": {
+    "prod": "https://p1.ecom.samsung.com/v1/exchange/api/can",
+    "stg2": "https://ued1.ecom-qa.samsung.com/v1/exchange/api/can"
+  },
+  "customerInfo": {
+    "firstName": "Auto",
+    "lastName": "Test",
+    "phoneNumber": "3213213213",
+    "email": "autotest@gmail.com"
+  },
+  "customerAddress": {
+    "searchAddress": "78 O'Connor St Ottawa, ON, K1P 5M7",
+    "line1": "78 O'Connor St",
+    "town": "Ottawa",
+    "regionIso": "Ontario",
+    "postalCode": "K1P 5M7"
+  },
+  "billingAddress": {},
+  "tradeIn": {
+    "brand": "Samsung",
+    "model": "Galaxy S24 Ultra",
+    "imei": "355338501827039"
+  }
+}

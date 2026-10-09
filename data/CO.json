@@ -1,0 +1,40 @@
+{
+  "cluster": "SMB",
+  "storeDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smb-api-cdn.ecom-stg.samsung.com"
+  },
+  "exchangeEndpoints": {
+    "prod": "https://p1.ecom.samsung.com/v1/exchange/api/col",
+    "stg2": "https://ued1.ecom-qa.samsung.com/v1/exchange/api/col"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "firstName": "Auto",
+    "lastName": "Test",
+    "phoneNumber": "3213213211",
+    "identificationType": "Cédula de extranjería",
+    "vatNumber": "010499",
+    "companyName": "Wisewires",
+    "companyId": "010499",
+    "companyPhone": "6213213290",
+    "companyEmail": "wisewires.test@gmail.com"
+  },
+  "customerAddress": {
+    "regionIso": "Bogota, D.C.",
+    "town": "BOGOTA, D.C.",
+    "line2": "123 Anillo",
+    "line2_a": "Anillo",
+    "line2_b": "123",
+    "line2_c": "abc",
+    "line2_d": "xyz",
+    "apartment": "apart",
+    "line1": "Apartamento",
+    "landmark": ""
+  },
+  "billingAddress": {},
+  "tradeInData": {},
+  "pickupData": {
+    "pickupStoreSelect": "Bogota, D.C."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "cluster": "SMB",
+  "storeDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smb-api-cdn.ecom-stg.samsung.com"
+  },
+  "exchangeEndpoints": {
+    "prod": "https://p1.ecom.samsung.com/v1/exchange/api/chl",
+    "stg2": "https://ued1.ecom-qa.samsung.com/v1/exchange/api/chl"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "firstName": "Auto",
+    "lastName": "Test",
+    "phoneNumber": "958699987",
+    "vatNumber": "12166250-7"
+  },
+  "customerAddress": {
+    "regionIso": "Metropolitana de Santiago",
+    "town": "La Florida",
+    "line2": "2",
+    "line1": "123"
+  },
+  "billingAddress": {
+    "companyId": "15111102-5",
+    "companyName": "wisewires",
+    "commercializeTxt": "IT",
+    "phoneNumber": "958699911",
+    "line2": "2 a",
+    "line1": "222",
+    "apartment": "99 olahh",
+    "regionIso": "Arica y Parinacota",
+    "town": "Putre"
+  },
+  "tradeIn": {
+    "category": "SMARTPHONE"
+  },
+  "tradeUp": {
+    "serialNumber": "1234567890"
+  },
+  "pickupData": {
+    "pickupStoreSelect-region": "Metropolitana de Santiago",
+    "pickupStoreSelect-district": "Providencia",
+    "pickupRegionSelect_chilexpress": "ANTOFAGASTA",
+    "pickupDistrictSelect_chilexpress": "CALAMA",
+    "storeName": "Samsung Mercado Urbano Tobalaba"
+  }
+}

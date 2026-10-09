@@ -1,0 +1,32 @@
+{
+  "cluster": "SMS",
+  "storeDomains": {
+    "prod": "https://shop.samsung.com",
+    "stg2": "https://stg2.shop.samsung.com"
+  },
+  "storeNewHybDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-sms-api-cdn.ecom-stg.samsung.com"
+  },
+  "exchangeEndpoints": {
+    "prod": "https://p1.ecom.samsung.com/v1/exchange/api/nzd",
+    "stg2": "https://icd1.ecom-qa.samsung.com/v1/exchange/api/nzd"
+  },
+  "customerInfo": {
+    "firstName": "Auto",
+    "lastName": "Test",
+    "phoneNumber": "0912345678",
+    "email": "autotest@gmail.com"
+  },
+  "customerAddress": {
+    "searchAddress": "0110",
+    "line1": "110 Beach Road",
+    "town": "Whangarei",
+    "postalCode": "0110",
+    "companyName": "Wisewires"
+  },
+  "billingAddress": {},
+  "tradeIn": {
+    "deviceConditions": "last"
+  }
+}

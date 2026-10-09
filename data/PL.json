@@ -1,0 +1,20 @@
+{
+  "cluster": "SMN3",
+  "storeDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smn3-api-cdn.ecom-stg.samsung.com"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "firstName": "Auto",
+    "lastName": "Test"
+  },
+  "customerAddress": {
+    "line1": "Slużewiec, Mokotów Postępu 14",
+    "postalCode": "00-009",
+    "town": "Warsaw",
+    "telephoneCode": null,
+    "phone": "999999999"
+  },
+  "billingAddress": {}
+}

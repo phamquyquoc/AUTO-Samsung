@@ -1,0 +1,32 @@
+{
+  "cluster": "SMS",
+  "storeDomains": {
+    "prod": "https://shop.samsung.com",
+    "stg2": "https://stg2.shop.samsung.com"
+  },
+  "storeNewHybDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-sms-api-cdn.ecom-stg.samsung.com"
+  },
+  "exchangeEndpoints": {
+    "prod": "https://p1.ecom.samsung.com/v1/exchange/api/sgp",
+    "stg2": "https://icd1-org.ecom-qa.samsung.com/v1/exchange/api/sgp"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "phoneNumber": "89756465",
+    "firstName": "Auto",
+    "lastName": "Test"
+  },
+  "customerAddress": {
+    "searchAddress": "018926",
+    "line1": "23, Marina Bay Mrt Station, Park Street",
+    "postalCode": "018926",
+    "line2": "",
+    "deliveryInfo": ""
+  },
+  "billingAddress": {},
+  "tradeIn": {
+    "deviceConditions": "last"
+  }
+}

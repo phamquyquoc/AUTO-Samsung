@@ -1,0 +1,38 @@
+{
+  "cluster": "SMS",
+  "storeDomains": {
+    "prod": "https://shop.samsung.com",
+    "stg2": "https://stg2.shop.samsung.com"
+  },
+  "storeNewHybDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-sms-api-cdn.ecom-stg.samsung.com"
+  },
+  "exchangeEndpoints": {
+    "prod": "https://p1.ecom.samsung.com/v1/exchange/api/idr",
+    "stg2": "https://icd1-org.ecom-qa.samsung.com/v1/exchange/api/idr"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "firstName": "Auto",
+    "lastName": "Test",
+    "phoneNumber": "812345678",
+    "phoneNumber2": ""
+  },
+  "customerAddress": {
+    "line1": "12",
+    "line2": "",
+    "regionIso": "Bali",
+    "town": "Bali",
+    "district": "Kab. Badung",
+    "ward": "Abiansemal",
+    "suburb": "Abiansemal",
+    "postalCode": "",
+    "landmark": "",
+    "email": "autotestww@gmail.com"
+  },
+  "billingAddress": {},
+  "tradeIn": {
+    "postalCode": "10130"
+  }
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "sku": "SM-F741BLBGEUB",
+    "type": "IM",
+    "pdURL": "https://p6-pre-qa2.samsung.com/fi/smartphones/galaxy-z/galaxy-z-flip6-blue-256gb-sm-f741blbgeub/buy/",
+    "tradeIn": true,
+    "hasRecommendation": true,
+    "canBuy": true
+  },
+  {
+    "sku": "SM-S901BZKDEUB",
+    "type": "IM",
+    "PDPURL": "https://stg2.shop.samsung.com/fi/p/SM-S901BZKDEUB",
+    "scp": true,
+    "canBuy": true
+  },
+  {
+    "sku": "SM-F936BZKBEUB",
+    "type": "IM",
+    "preOrder": true,
+    "tradeIn": true,
+    "flex": true,
+    "scp": true,
+    "canBuy": true
+  },
+  {
+    "sku": "SM-S908BZKDEUB",
+    "type": "IM",
+    "backOrder": true,
+    "canBuy": true
+  },
+  {
+    "sku": "TQ50QE1DAUXXC",
+    "preOrderExpired": true,
+    "PDPURL": "https://stg2.shop.samsung.com/fi/p/TQ50QE1DAUXXC",
+    "tradeUp": true,
+    "canBuy": true
+  },
+  {
+    "sku": "SM-S921BZADEUB",
+    "backOrderExpired": true,
+    "PDPURL": "https://stg2.shop.samsung.com/fi/p/SM-S921BZADEUB",
+    "canBuy": false
+  },
+  {
+    "sku": "SM-F761BZKGEUB",
+    "type": "IM",
+    "bcURL": "https://p6-pre-qa2.samsung.com/fi/smartphones/galaxy-z-flip7-fe/buy/?modelCode=SM-F761BZKGEUB",
+    "tradeIn": true,
+    "scp": true,
+    "canBuy": true
+  },
+  {
+    "sku": "LC49G95TSSRXEN",
+    "tradeUp": true,
+    "canBuy": true
+  }
+]

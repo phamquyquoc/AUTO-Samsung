@@ -1,0 +1,56 @@
+{
+  "cluster": "SMN",
+  "storeDomains": {
+    "prod": "https://shop.samsung.com",
+    "stg2": "https://stg2.shop.samsung.com"
+  },
+  "storeNewHybDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smn-api-cdn.ecom-stg.samsung.com"
+  },
+  "exchangeEndpoints": {
+    "prod": "https://p1.ecom.samsung.com/v1/exchange/api/ita",
+    "stg2": "https://ewd1.ecom-qa.samsung.com/v1/exchange/api/ita"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "firstName": "Auto",
+    "lastName": "Test",
+    "phoneCode": "Italia",
+    "phoneNumber": "1234556789"
+  },
+  "customerAddress": {
+    "searchAddress": "20124",
+    "line1": "Via Roma",
+    "town": "Corbola",
+    "region": "Rovigo",
+    "postalCode": "45015",
+    "line2": "45"
+  },
+  "billingAddress": {
+    "country": "Italia",
+    "firstName": "Auto",
+    "lastName": "Test",
+    "telephone": "Italia",
+    "phoneNumber": "1234556789",
+    "searchAddress": "12345",
+    "line1": "Stradona Del Caccolotto",
+    "line2": "12",
+    "town": "Torino",
+    "region": "Torino",
+    "postalCode": "10156"
+  },
+  "identification": {
+    "fiscalCode": "MRTMTT25D09F205Z"
+  },
+  "tradeInData": {
+    "iban": "IT02W0100502800000000250003",
+    "fiscalCode": "MRTMTT25D09F205Z"
+  },
+  "tradeIn": {
+    "category": "Smartphone",
+    "brand": "Samsung",
+    "model": "Galaxy S24 Ultra",
+    "imei": "355338505085808"
+  }
+}

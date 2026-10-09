@@ -1,0 +1,27 @@
+{
+  "cluster": "SMI",
+  "storeDomains": {
+    "prod": "https://shop.samsung.com",
+    "stg2": "https://stg2.shop.samsung.com"
+  },
+  "storeNewHybDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smi-api-cdn.ecom-stg.samsung.com"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "phoneNumber": "+966321321321",
+    "firstName": "Auto",
+    "lastName": "Test"
+  },
+  "customerAddress": {
+    "line1": "abcd1234",
+    "line2": "line2",
+    "regionIso": "أبها",
+    "town": "أبها",
+    "district": "ابها الجديدة",
+    "recipientFirstName": "",
+    "recipientNumber": ""
+  },
+  "billingAddress": {}
+}

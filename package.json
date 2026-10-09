@@ -1,0 +1,21 @@
+{
+  "name": "ww_auto",
+  "version": "1.0.0",
+  "description": "Wisewires Automation",
+  "main": "index.js",
+  "scripts": {
+    "package": "package.bat"
+  },
+  "keywords": [],
+  "author": "Wisewires",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@playwright/test": "1.56.0",
+    "@types/node": "^25.6.0",
+    "@types/screenshot-desktop": "^1.15.0",
+    "dotenv": "^17.4.2",
+    "screenshot-desktop": "^1.15.4",
+    "xlsx": "^0.18.5"
+  }
+}

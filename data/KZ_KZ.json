@@ -1,0 +1,30 @@
+{
+  "cluster": "SMN3",
+  "storeDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://stg2.shop.samsung.com"
+  },
+  "storeNewHybDomains": {
+    "prod": "https://p1-smn3-api-cdn.shop.samsung.com",
+    "stg2": "https://s2-smn3-api-cdn.ecom-stg.samsung.com"
+  },
+  "noConsent": true,
+  "exchangeEndpoints": {
+    "prod": "https://p1.ecom.samsung.com/v1/exchange/api/kaz",
+    "stg2": "https://p1.ecom-qa.samsung.com/v1/exchange/api/kaz"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "firstName": "Auto",
+    "lastName": "Test",
+    "phoneNumber": "77777777777",
+    "personalTaxNumber": ""
+  },
+  "customerAddress": {
+    "regionIso": "Ақмола облысы",
+    "town": "Акколь",
+    "line1": "123",
+    "district": ""
+  },
+  "billingAddress": {}
+}

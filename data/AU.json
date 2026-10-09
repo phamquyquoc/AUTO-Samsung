@@ -1,0 +1,37 @@
+{
+  "cluster": "SMA",
+  "storeDomains": {
+    "prod": "https://shop.samsung.com",
+    "stg2": "https://stg2.shop.samsung.com"
+  },
+  "storeNewHybDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-sma-api-cdn.ecom-stg.samsung.com"
+  },
+  "exchangeEndpoints": {
+    "prod": "https://aep1-org.ecom.samsung.com/v1/exchange/api/aus",
+    "stg2": "https://aed1-org.ecom-qa.samsung.com/v1/exchange/api/aus"
+  },
+  "tariffEndpoints": {
+    "stg2": "https://aed1.ecom-qa.samsung.com/v4/carrier/api/aus/au"
+  },
+  "customerInfo": {
+    "firstName": "Auto",
+    "lastName": "Test",
+    "phoneNumber": "0412376678",
+    "email": "autotest@gmail.com"
+  },
+  "customerAddress": {
+    "line1": "123 Main St",
+    "line2": "Apt 4B",
+    "postalCode": "3000",
+    "town": "MELBOURNE",
+    "regionIso": "Victoria",
+    "companyName": "Wisewires"
+  },
+  "billingAddress": {},
+  "tradeUp": {
+    "postalCode": "3000"
+  },
+  "simInfo": {}
+}

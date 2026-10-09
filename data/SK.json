@@ -1,0 +1,36 @@
+{
+  "cluster": "SMN3",
+  "storeDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smn3-api-cdn.ecom-stg.samsung.com"
+  },
+  "exchangeEndpoints": {
+    "prod": "https://p1.ecom.samsung.com/v1/exchange/api/svk",
+    "stg2": "https://ewd1.ecom-qa.samsung.com/v1/exchange/api/svk"
+  },
+  "customerInfo": {
+    "email": "autotest@wisewires.com",
+    "firstName": "Auto",
+    "lastName": "Test"
+  },
+  "customerAddress": {
+    "line1": "Budulov 123",
+    "postalCode": "04501",
+    "town": "Moldava nad Bodvou",
+    "country": null,
+    "prefix": "+421",
+    "phone": "123456789",
+    "additionalNotes": "",
+    "companyName": ""
+  },
+  "billingAddress": {},
+  "pickupData": {
+    "city": "ANDOVCE",
+    "storelocation": "Kvetinárstvo Iveta"
+  },
+  "tradeInData": {
+    "iban": "SK1482973364859697859743",
+    "bankName": "365.BANK, A. S.",
+    "swiftCode": "POBNSKBA"
+  }
+}

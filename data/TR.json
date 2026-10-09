@@ -1,0 +1,31 @@
+{
+  "cluster": "SMI",
+  "storeDomains": {
+    "prod": "https://p1-smi-api-cdn.shop.samsung.com",
+    "stg2": "https://s2-smi-api-cdn.ecom-stg.samsung.com"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "firstName": "Auto",
+    "lastName": "Test",
+    "phoneNumber": "5498773829",
+    "personalTaxNumber": "45821056966",
+    "companyNameInstitutional": "Wisewires",
+    "vatNumber": "6310694283",
+    "customerDOB": "17.02.1981"
+  },
+  "customerAddress": {
+    "regionIso": "İSTANBUL",
+    "district": "ATAŞEHİR",
+    "town": "AŞİKVEYSEL MAH",
+    "line1": "123",
+    "postalCode": "34707"
+  },
+  "billingAddress": {
+    "regionIso": "ANKARA",
+    "district": "AKYURT",
+    "town": "AHMETADİL MAH",
+    "line1": "321",
+    "postalCode": "06750"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "cluster": "SMI",
+  "storeDomains": {
+    "prod": "https://shop.samsung.com",
+    "stg2": "https://stg2.shop.samsung.com"
+  },
+  "storeNewHybDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smi-api-cdn.ecom-stg.samsung.com"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "phoneNumber": "0502020444",
+    "firstName": "Auto",
+    "lastName": "Test",
+    "companyName": "Wisewires"
+  },
+  "customerAddress": {
+    "town": "אבו גווייעד שבט",
+    "line1": "אבו גווייעד שבט",
+    "line2": "123",
+    "landmark": "",
+    "shippingRemarks": "",
+    "postalCode": "אבו ג'ווייעד (שבט)"
+  },
+  "billingAddress": {}
+}

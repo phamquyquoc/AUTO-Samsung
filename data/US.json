@@ -1,0 +1,19 @@
+{
+  "cluster": "SMU",
+  "storeDomains": {
+    "prod": "https://p1-smu-api-cdn.shop.samsung.com"
+  },
+  "customerInfo": {
+    "firstName": "Auto",
+    "lastName": "Test",
+    "phoneNumber": "718 788 1839",
+    "email": "autotest@gmail.com"
+  },
+  "customerAddress": {
+    "searchAddress": "F Rolling Way, Peekskill, NY, 10566",
+    "line1": "F Rolling Way",
+    "town": "Peekskill",
+    "regionIso": "NY",
+    "postalCode": "10566"
+  }
+}

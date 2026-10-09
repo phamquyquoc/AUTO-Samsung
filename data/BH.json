@@ -1,0 +1,40 @@
+{
+  "cluster": "SMI",
+  "storeDomains": {
+    "prod": "https://shop.samsung.com",
+    "stg2": "https://stg2.shop.samsung.com"
+  },
+  "storeNewHybDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smi-api-cdn.ecom-stg.samsung.com"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "phoneNumber": "+97354123457",
+    "firstName": "Auto",
+    "lastName": "Test"
+  },
+  "customerAddress": {
+    "regionIso": "Capital Governorate",
+    "town": "Adliya",
+    "district": "Adliya",
+    "line1": "Klein Bennebek",
+    "apartment": "",
+    "landmark": ""
+  },
+  "billingAddress": {
+    "phoneNumber": "+97354123466",
+    "firstName": "Auto",
+    "lastName": "Bill",
+    "regionIso": "Central Governorate",
+    "district": "Aali",
+    "town": "Aali",
+    "line1": "Billing Town"
+  },
+  "creditCardData": {
+    "cardNumber": "4005550000000001",
+    "holderName": "Auto",
+    "expiryDate": "12/30",
+    "cvv": "100"
+  }
+}

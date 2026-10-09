@@ -1,0 +1,29 @@
+{
+  "cluster": "SMS",
+  "storeDomains": {
+    "prod": "https://shop.samsung.com",
+    "stg2": "https://stg2.shop.samsung.com"
+  },
+  "storeNewHybDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-sms-api-cdn.ecom-stg.samsung.com"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "phoneCode": "香港",
+    "phoneNumber": "21234568",
+    "firstName": "Auto",
+    "lastName": "Test"
+  },
+  "customerAddress": {
+    "town": "香港特別行政區",
+    "district": "中西區",
+    "line1": "123"
+  },
+  "billingAddress": {},
+  "tradeIn": {
+    "brand": "Apple",
+    "model": "iPhone 14",
+    "imei": "351421792930037"
+  }
+}

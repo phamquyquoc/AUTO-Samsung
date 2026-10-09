@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "lib": ["ES2022", "DOM"],
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "noEmit": true,
+    "paths": {
+      "*": ["./web/*"]
+    }
+  },
+  "include": ["web/**/*.ts", "tests/**/*.ts", "backoffice/**/*.ts", "regression/**/*.ts", "playwright.config.ts"]
+}

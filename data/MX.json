@@ -1,0 +1,32 @@
+{
+  "cluster": "SMB",
+  "storeDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smb-api-cdn.ecom-stg.samsung.com"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "firstName": "Auto",
+    "lastName": "Test",
+    "phoneNumber": "3213213212",
+    "phoneNumber2": "",
+    "yearOfBirth": "1995"
+  },
+  "customerAddress": {
+    "postalCode": "01000",
+    "ward": "San Ángel",
+    "district": "",
+    "regionIso": "",
+    "line2": "line2",
+    "line1": "123",
+    "apartment": "",
+    "deliveryInfo": null,
+    "landmark": ""
+  },
+  "billingAddress": {},
+  "pickupData": {
+    "pickupStoreSelect-region": "Ciudad de México",
+    "pickupStoreSelect-district": "Miguel Hidalgo",
+    "storeName": "mx O2O POS SAMPLE1"
+  }
+}

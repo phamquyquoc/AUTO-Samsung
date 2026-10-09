@@ -1,0 +1,38 @@
+{
+  "cluster": "SMN3",
+  "storeDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smn3-api-cdn.ecom-stg.samsung.com"
+  },
+  "customerInfo": {
+    "email": "autotest@wisewires.com",
+    "firstName": "Auto",
+    "lastName": "Test",
+    "phoneCode": null,
+    "phoneNumber": "912345678",
+    "companyName": "asdf",
+    "companyId": "HR01234567"
+
+  },
+  "customerAddress": {
+    "line1": "123",
+    "line2": "line2",
+    "postalCode": "12345",
+    "town": "town",
+    "floor": "",
+    "apartment": ""
+  },
+  "billingAddress": {
+        "line1": "456",
+        "line2": "line2",
+        "postalCode": "34567",
+        "town": "asdf"
+    },
+    
+  "tradeInData": {
+    "category": "MOBITELI",
+    "brand": "Samsung",
+    "model": "Samsung Galaxy Z Fold5 5G 512GB F946",
+    "imei": "356223181221332"
+  }
+}

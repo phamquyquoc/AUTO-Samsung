@@ -1,0 +1,29 @@
+{
+  "cluster": "SMS",
+  "storeDomains": {
+    "prod": "https://shop.samsung.com",
+    "stg2": "https://stg2.shop.samsung.com"
+  },
+  "storeNewHybDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-sms-api-cdn.ecom-stg.samsung.com"
+  },
+  "exchangeEndpoints": {
+    "prod": "https://p1.ecom.samsung.com/v1/exchange/api/twn",
+    "stg2": "https://icd1-org.ecom-qa.samsung.com/v1/exchange/api/twn"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "phoneNumber": "0912345678",
+    "title": 1,
+    "firstName": "Auto",
+    "lastName": "Test"
+  },
+  "customerAddress": {
+    "town": "基隆市",
+    "district": "仁愛區",
+    "postalCode": "200",
+    "line1": "123"
+  },
+  "billingAddress": {}
+}

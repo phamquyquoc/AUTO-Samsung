@@ -1,0 +1,29 @@
+{
+  "cluster": "SMB",
+  "storeDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smb-api-cdn.ecom-stg.samsung.com"
+  },
+  "exchangeEndpoints": {
+    "prod": "https://p1.ecom.samsung.com/v1/exchange/api/per",
+    "stg2": "https://ued1.ecom-qa.samsung.com/v1/exchange/api/per"
+  },
+  "customerInfo": {
+    "firstName": "Auto",
+    "lastName": "Test",
+    "email": "autotest@gmail.com",
+    "phoneNumber": "123456789",
+    "identificationType": "DNI",
+    "vatNumber": "12345678"
+  },
+  "customerAddress": {
+    "regionIso": 1,
+    "town": 1,
+    "district": 1,
+    "line1": "123",
+    "line2": "line2",
+    "apartment": "",
+    "landmark": ""
+  },
+  "billingAddress": {}
+}

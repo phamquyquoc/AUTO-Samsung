@@ -1,0 +1,50 @@
+{
+  "cluster": "SMN4",
+  "storeDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smn4-api-cdn.ecom-stg.samsung.com"
+  },
+  "exchangeEndpoints": {
+    "prod": "https://p1.ecom.samsung.com/v1/exchange/api/gbr",
+    "stg2": "https://ews1.ecom-qa.samsung.com/v1/exchange/api/gbr"
+  },
+  "tariffEndpoints": {
+    "prod": "https://p1.ecom.samsung.com/v4/carrier/api/gbr/uk",
+    "stg2": "https://ews1.ecom-qa.samsung.com/v4/carrier/api/gbr/uk"
+  },
+  "customerInfo": {
+    "title": 1,
+    "firstName": "Auto",
+    "lastName": "Test",
+    "phoneNumber": "07791154325",
+    "email": "autotest@gmail.com"
+  },
+  "customerAddress": {
+    "searchAddress": "KT16 0PS",
+    "postalCode": "KT16 0PS",
+    "line1": "Air Products plc, 1000 Hillswood Drive",
+    "town": "Chertsey",
+    "regionIso": "Surrey",
+    "companyName": "Wisewires"
+  },
+  "billingAddress": {},
+  "tradeIn": {
+    "brand": "Samsung",
+    "device": "Galaxy S24 Ultra",
+    "imei": "355338504596284"
+  },
+  "simInfo": {
+    "dob": "1/1/1990",
+    "maritalStatus": "Married",
+    "employmentStatus": "Full Time",
+    "occupation": "Tester",
+    "employmentArea": "Doctor",
+    "employmentYears": "3",
+    "employmentMonths": "3",
+    "residentStatus": "Owner",
+    "timeAtYear": "3",
+    "timeAtMonth": "3",
+    "accountNumber": "12423425",
+    "sortCode": "00-22-11"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "cluster": "SMN",
+  "storeDomains": {
+    "prod": "https://shop.samsung.com",
+    "stg2": "https://stg2.shop.samsung.com"
+  },
+  "storeNewHybDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smn-api-cdn.ecom-stg.samsung.com"
+  },
+  "exchangeEndpoints": {
+    "prod": "https://p1.ecom.samsung.com/v1/exchange/api/prt",
+    "stg2": "https://ewd1.ecom-qa.samsung.com/v1/exchange/api/prt"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "firstName": "Auto",
+    "lastName": "Test",
+    "phoneCode": null,
+    "phoneNumber": "932132122",
+    "fiscalCode": "199877670"
+  },
+  "customerAddress": {
+    "searchAddress": "R Irene Lisboa 19",
+    "line1": "R Irene Lisboa 19",
+    "postalCode": "2650-222",
+    "town": "Brandoa"
+  },
+  "billingAddress": {
+    "country": "Portugal",
+    "firstName": "Auto",
+    "lastName": "Billing",
+    "phonePrefix": null,
+    "phone": "932132122",
+    "searchAddress": "Avenida Marquês Tomar 135",
+    "line1": "Av Marquês de Tomar 135",
+    "postalCode": "1050-053",
+    "town": "Lisboa"
+  }
+}

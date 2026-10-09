@@ -1,0 +1,27 @@
+{
+  "cluster": "SMN3",
+  "storeDomains": {
+    "prod": "https://p1-smn3-api-cdn.shop.samsung.com",
+    "stg2": "https://s2-smn3-api-cdn.ecom-stg.samsung.com"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "firstName": "Auto",
+    "lastName": "Test"
+  },
+  "customerAddress": {
+    "line1": "123",
+    "line2": "",
+    "postalCode": "5432",
+    "regionIso": "Област Габрово",
+    "town": "Севлиево",
+    "country": null,
+    "phone": "0912358531"
+  },
+  "billingAddress": {},
+  "tradeIn": {
+    "brand": "Samsung",
+    "model": "Galaxy S24",
+    "imei": "355680654897214"
+  }
+}

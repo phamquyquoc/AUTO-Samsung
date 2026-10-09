@@ -1,0 +1,32 @@
+{
+  "cluster": "SMI",
+  "storeDomains": {
+    "prod": "https://shop.samsung.com",
+    "stg2": "https://stg2.shop.samsung.com"
+  },
+  "storeNewHybDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smi-api-cdn.ecom-stg.samsung.com"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "phoneNumber": "03213213211",
+    "firstName": "Auto",
+    "lastName": "Test"
+  },
+  "customerAddress": {
+    "line1": "123",
+    "line2": "line2",
+    "regionIso": "Sindh",
+    "district": "Karachi"
+  },
+  "billingAddress": {
+    "firstName": "Auto",
+    "lastName": "bill",
+    "phoneNumber": "03213213211",
+    "fiscalCode": "12345-1234567-1",
+    "line1": "135",
+    "adminLevel1": "Balochistan",
+    "adminLevel2": "Chaman"
+  }
+}

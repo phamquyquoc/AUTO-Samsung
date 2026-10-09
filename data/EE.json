@@ -1,0 +1,37 @@
+{
+  "cluster": "SMN3",
+  "storeDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smn3-api-cdn.ecom-stg.samsung.com"
+  },
+  "exchangeEndpoints": {
+    "prod": "https://p1.ecom.samsung.com/v1/exchange/api/ltu",
+    "stg2": "https://ewd1.ecom-qa.samsung.com/v1/exchange/api/ltu"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "firstName": "Auto",
+    "lastName": "Test"
+  },
+  "customerAddress": {
+    "searchAddress": "Kopli 1111 11712 Tallinn",
+    "line1": "Kopli",
+    "line2": "1111",
+    "town": "Tallinn",
+    "postalCode": "11712",
+    "phone": "51234567",
+    "additionalNotes": ""
+  },
+  "billingAddress": {
+    "searchAddress": "Energeetiku Aiandusühistu 325 40117 Narva-Jõesuu linn",
+    "line1": "Energeetiku Aiandusühistu",
+    "line2": "325",
+    "town": "Narva-Jõesuu linn",
+    "postalCode": "40117",
+    "firstName": "Auto",
+    "lastName": "Billing",
+    "phone": "57654321",
+    "country": null,
+    "enterManually": false
+  }
+}

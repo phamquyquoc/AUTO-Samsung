@@ -1,0 +1,31 @@
+{
+  "cluster": "SMA",
+  "storeDomains": {
+    "prod": "https://shop.samsung.com",
+    "stg2": "https://stg2.shop.samsung.com"
+  },
+  "storeNewHybDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-sma-api-cdn.ecom-stg.samsung.com"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "phoneNumber": "7036789000",
+    "firstName": "Auto",
+    "lastName": "Test"
+  },
+  "customerAddress": {
+    "postalCode": "1060047",
+    "district": "東京都",
+    "town": "港区",
+    "line1": "南麻布",
+    "suburb": "Tokyo"
+  },
+  "billingAddress": {},
+  "tradeIn": {
+    "brand": "Samsung",
+    "model": "Galaxy S24 Ultra",
+    "device": "Galaxy S24 Ultra",
+    "imei": "355338508075954"
+  }
+}

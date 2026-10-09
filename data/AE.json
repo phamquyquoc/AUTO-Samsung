@@ -1,0 +1,26 @@
+{
+  "cluster": "SMI",
+  "storeDomains": {
+    "prod": "https://shop.samsung.com",
+    "stg2": "https://stg2.shop.samsung.com"
+  },
+  "storeNewHybDomains": {
+    "prod": "https://api.shop.samsung.com",
+    "stg2": "https://s2-smi-api-cdn.ecom-stg.samsung.com"
+  },
+  "customerInfo": {
+    "email": "autotest@gmail.com",
+    "phoneNumber": "+971541234567",
+    "firstName": "Auto",
+    "lastName": "Test"
+  },
+  "customerAddress": {
+    "line1": "Samsung Tower",
+    "apartment": "86",
+    "line2": "Klein Bennebek",
+    "landmark": "Near Safa Park",
+    "regionIso": "Abu Dhabi",
+    "district": "Abu Al Abyad Island"
+  },
+  "billingAddress": {}
+}
